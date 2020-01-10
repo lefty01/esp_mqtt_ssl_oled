@@ -1,3 +1,9 @@
+/*
+ * mosquitto log can be found here:
+ * https://github.com/eclipse/mosquitto/
+ * Copyright (c) Roger Light <roger@atchoo.org>
+ *
+ */
 
 #define mqtt_width 53
 #define mqtt_height 52
